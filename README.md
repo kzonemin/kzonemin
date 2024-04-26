@@ -1,4 +1,5 @@
 ### All Project Works Visible Here
+The Data Set contains data of 500 individuals (250 males and females each). They are futher divided into Healthy and Unhealthy voices (125 each) in the age group of 20-50.
 
 <!--
 **kzonemin/kzonemin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
