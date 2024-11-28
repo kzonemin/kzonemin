@@ -12,7 +12,7 @@ Hello! I'm **Chandrim Konwar**, a passionate Data Scientist and Machine Learning
 - ⚡ **Fun Fact:** I'm the tallest person in my family!
 
 ## Projects
-I have worked on a variety of projects, including those involving data analysis, machine learning, and voice pathology detection. Below is a description of one of my ongoing projects:
+I have worked on a variety of projects, including those involving data analysis, machine learning, and voice pathology detection. Below is a description of one of my completed projects:
 
 ### **Vocal Pathology Detection Project**
 This dataset contains data from 500 individuals, divided into 250 males and females (125 healthy voices and 125 unhealthy voices). The individuals are in the age range of 20-50. The goal of the project is to explore feature extraction techniques and classification models to detect vocal pathologies based on the available data.
@@ -24,7 +24,7 @@ I work with a variety of tools and technologies, including:
 
 - **Languages:** Python, R, SQL
 - **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch
-- **Data Science Tools:** Jupyter, Tableau, Excel
+- **Data Science Tools:** Jupyter, Tableau, Excel, Power BI
 - **Version Control:** Git, GitHub
 
 ## GitHub Stats
