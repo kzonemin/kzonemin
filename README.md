@@ -17,8 +17,6 @@ I have worked on a variety of projects, including those involving data analysis,
 ### **Vocal Pathology Detection Project**
 This dataset contains data from 500 individuals, divided into 250 males and females (125 healthy voices and 125 unhealthy voices). The individuals are in the age range of 20-50. The goal of the project is to explore feature extraction techniques and classification models to detect vocal pathologies based on the available data.
 
-To explore more projects and see my work in action, feel free to check out the [Projects](#) tab.
-
 ## Technologies & Tools
 I work with a variety of tools and technologies, including:
 
